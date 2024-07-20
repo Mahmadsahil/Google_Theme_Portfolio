@@ -3,7 +3,7 @@ import Achivement1 from "../Utils/Achivement1.jpg"
 import Achivement2 from "../Utils/Achivement2.jpg"
 
 const slides = [
-    { image: Achivement1, description: 'Fist Rank In Final Year🏆' },
+    { image: Achivement1, description: 'First Rank In Final Year🏆' },
     { image: Achivement2, description: 'Institute Topper🥇' },
 ];
 
