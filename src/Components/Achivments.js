@@ -25,7 +25,7 @@ const Achievements = () => {
                         key={index}
                         className={`absolute w-full transition-opacity duration-1000 flex justify-center items-center ${index === currentIndex ? 'opacity-100' : 'opacity-0'}`}
                     >
-                        <img src={slide.image} alt={`Slide ${index + 1}`} className="" />
+                        <img src={slide.image} alt={`Slide ${index + 1}`} className="h-72 md:h-96" />
                         <p className="w-full text-center absolute bottom-0 left-0 bg-black bg-opacity-50 text-white p-4">{slide.description}</p>
                     </div>
                 ))}
