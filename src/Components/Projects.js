@@ -3,6 +3,7 @@ import NetflixGPT from "../Utils/Netflix.png"
 import MDGenie from "../Utils/mdgenie.png"
 import YouTube from "../Utils/youtube.png"
 import MDFood from "../Utils/Swiggy.png"
+import CodeBuilding from "../Utils/CodeBuilding.png"
 
 const Projects = () => {
     return (
@@ -13,6 +14,10 @@ const Projects = () => {
                         demoLink={"https://mdgenie.vercel.app/"} githubLink={"https://github.com/Mahmadsahil/MDGenie"}
                         videoLink={"https://www.linkedin.com/posts/md-sahil-achanoor-2a686423a_react-javascript-namastereact-activity-7220421571574648832-yFyJ?utm_source=share&utm_medium=member_desktop"} />
 
+                            <Project projectName="AI-powered product suggestions Webapp" imgUrl={CodeBuilding}
+                        demoLink={"https://codebuilding.vercel.app/"} githubLink={"https://github.com/Mahmadsahil/CodeBuilding"}
+                        videoLink={"https://www.linkedin.com/posts/md-sahil-achanoor-2a686423a_react-javascript-reactjs-activity-7222602900902928387-qVP4?utm_source=share&utm_medium=member_desktop"} />
+                            
                     <Project projectName="Movie Streaming Platform with TMDB Integration Webapp" imgUrl={NetflixGPT}
                         demoLink={"mdnetflixgpt.vercel.app/"} githubLink={"https://github.com/Mahmadsahil/NetflixGPT"}
                         videoLink={"https://www.linkedin.com/posts/md-sahil-achanoor-2a686423a_react-javascript-namastereact-activity-7220417407364874240-lv_H?utm_source=share&utm_medium=member_desktop"} />
