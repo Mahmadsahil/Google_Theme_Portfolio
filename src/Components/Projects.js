@@ -14,7 +14,7 @@ const Projects = () => {
                         demoLink={"https://mdgenie.vercel.app/"} githubLink={"https://github.com/Mahmadsahil/MDGenie"}
                         videoLink={"https://www.linkedin.com/posts/md-sahil-achanoor-2a686423a_react-javascript-namastereact-activity-7220421571574648832-yFyJ?utm_source=share&utm_medium=member_desktop"} />
 
-                            <Project projectName="AI-powered product suggestions Webapp" imgUrl={CodeBuilding}
+                            <Project projectName="Interactive DSA coding platform" imgUrl={CodeBuilding}
                         demoLink={"https://codebuilding.vercel.app/"} githubLink={"https://github.com/Mahmadsahil/CodeBuilding"}
                         videoLink={"https://www.linkedin.com/posts/md-sahil-achanoor-2a686423a_react-javascript-reactjs-activity-7222602900902928387-qVP4?utm_source=share&utm_medium=member_desktop"} />
                             
