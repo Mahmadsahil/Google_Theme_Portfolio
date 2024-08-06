@@ -28,7 +28,7 @@ const AIAssistant = () => {
       seeking a fresher role as a Frontend or React developer. I have a Diploma in Computer Science Engineering (2018-2021)
        from Government Polytechnic Bagalkote with 82% and was the institute topper. 
        I'm skilled in JavaScript, React, Tailwind CSS, HTML, CSS, Jest, and Testing, and I use VS Code. 
-       I've completed the 'Namaste React' course and built projects like MDFood (Swiggy clone), a Netflix clone, a YouTube clone, and MDGenie (AI product suggestion web app). My projects are hosted on Vercel.
+       I've completed the 'Namaste React' course and built projects likeInteractive DSA Coding Platform, AI-powered Product Suggestions,Movie Suggestion Platform, Video Streaming Platform, Food Ordering Web Application, Google Theme Portfolio.
         My achievements include ranking first in my final year with 87%, being the institute topper for 2020-2021, and successfully optimizing search features and building a movie suggestion feature in my projects. 
         Find me on LinkedIn (https://www.linkedin.com/in/md-sahil-achanoor-2a686423a) and GitHub (https://github.com/Mahmadsahil).
          Contact: sahilachanur@gmail.com or 6363420179.
